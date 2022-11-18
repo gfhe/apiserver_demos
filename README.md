@@ -1,8 +1,3 @@
-## 目录
-
-**注意：** 此项目不再维护，如果想学习本项目可以移步：https://github.com/marmotedu/goserver
-
-**另外**：此课程已经升级为极客时间课程，课程介绍[《Go 语言项目开发实战》](https://time.geekbang.org/column/intro/100079601)，建议学习该课程，更专业、内容更多。
 
 ## apiserver_demos 项目介绍
 
